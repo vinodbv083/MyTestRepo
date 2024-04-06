@@ -7,7 +7,7 @@ public class Myclass {
 
 		System.out.println("Hi team");
 
-		System.out.println("hii");
+		System.out.println("hi");
 	}
 
 }
